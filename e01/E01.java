@@ -10,12 +10,19 @@ long population = 7000000000L;
 byte num = 100;
 double pi = 3.13457599923384753929348;
 System.out.println(x);
+System.out.println();
 System.out.println(y);
+System.out.println();
 System.out.println(flag);
+System.out.println();
 System.out.println(letter);
+System.out.println();
 System.out.println(year);
+System.out.println();
 System.out.println(population);
+System.out.println();
 System.out.println(num);
+System.out.println();
 System.out.println(pi);
     }
 }
