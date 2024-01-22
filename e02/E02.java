@@ -28,7 +28,7 @@ class E02 {
         System.out.println(minus);
 
         System.out.print(num1);
-        System.out.print(" * ");
+        System.out.print(" x ");
         System.out.print(num2);
         System.out.print(" = ");
         System.out.println(product);
